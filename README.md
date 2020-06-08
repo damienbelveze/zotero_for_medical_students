@@ -1,5 +1,5 @@
 # zotero for medical students
-distance learning workshop in the COVID-19 lock-down
+distance learning workshop during the COVID-19 lock-down
 
 ## COVID-19 context and its effects on information management training programme 
 
@@ -27,5 +27,19 @@ as an introduction, we wanted to show how scientific communication is accelerate
 - **slide 4** On the other side, preprints servers may host hastily edited or questionable articles such this one which was used by Luc Montagnier to forge a new conspiracy theory (more about this on [wikipedia](https://fr.wikipedia.org/wiki/D%C3%A9sinformation_sur_la_pand%C3%A9mie_de_Covid-19#Fabrication_sur_la_base_du_virus_du_Sida). Papers are very seldom retracted on preprint servers. The negative impact of this sloppy study led the site managers to put a retractation warning on the article page.
 - **slide 5** One comment found on Pubpeer about one study of hydroxychloroquine was reproduced here. The comment raises the issue of a peer-review process which was conducted with too much haste. Another issue points out a conflict of interest between the authors and the editors. This slide gives opportunity to the trainers to explain some basic rules of scientific integrity.
 - **slide 6** Scientific misconducts or even sloppy science can lead to retractation. Trainers may mention here the prominent role of the [retractationwatch website](https://retractionwatch.com/2020/04/22/study-claiming-broader-spread-of-aerosolized-coronavirus-is-retracted/) that tracks and analyses the retractations occurred on scientific publishing platforms.
-- **slide 7** is an invitation to medical interns to discuss with trainers but also with each other about their validity criteria and trustfull sources since in such a crisis being well-informed is a critical and vital issue, espacially for young practitionners who may be required to help hospital staff to face COVID-19 pandemia.
+- **slide 7** is an invitation to medical interns to discuss with trainers but also with each other about their validity criteria and trustfull sources since in such a crisis being well-informed is a critical and vital issue, especially for young practitionners who may be required to help hospital staff to face COVID-19 pandemia.
 
+## How to insert citations in a word processor with Zotero
+
+The following instructions were given to the students on the [Libguides website](https://focus.univ-rennes1.fr/Zotero_DMG/pendant_la_seance) of the Library.
+After this introduction, students were asked to create local collections in order to save the pre-selected papers mentioned above.
+Then by opening their word processor (Microsoft Word, LibreOffice or Google Doc) and filling it with lorem ipsum they had to insert these citations. In most of the cases, when issues were met at that stage, they were solved by downloading a more recent version of Java.
+
+## How to contribute to a collaborative bibliography with Zotero
+
+This task requires students to create a Zotero account and to join a collaborative bibliography. To keep close to the context, we suggested them to join [the bibliography on SARS-Cov2](https://www.zotero.org/groups/2467117/documentation_relative_au_nouveau_coronavirus_sars-cov-2) initiated by ENS school which is set "open membership" and contains a collection for medical references. This exercise makes students familiar to the management of a large amount of references (navigation between files, deduplication, use of markers i.e tags to index items, etc.). More advanced students were invited to take some time to curate collections. For instance, automated processes were provided to help them to spot items with date/author fields left blank.
+
+## Online Learning
+
+The 10 sessions were held with [VIA learning Solution](https://e-learning.sviesolutions.com) which our University had subscribed to.
+There were never more than 10 students registered for a single session. 2 Librarians were connected all along the session. When several students were dealing with the same session (for instance, Java environment update), VIA (like BigBlueButton) makes possible to gather these students in a "separate room", where oral explanations will not disturb other students.
