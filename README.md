@@ -15,7 +15,7 @@ The original workshop on information research was partially replaced by some sim
 - selecting a paper on Medrxiv or Biorxiv on the same topic
 - selectiong a paper on Pubpeer on the same topic that has received at least 5 comments.
 
-Moreover students received [https://focus.univ-rennes1.fr/Zotero_DMG/installer|instructions] to download and set Zotero on their computer and were asked to do it before the session.
+Moreover students received [https://focus.univ-rennes1.fr/Zotero_DMG/installer](instructions) to download and set Zotero on their computer and were asked to do it before the session.
 
 ## Preamble : 
 
