@@ -44,3 +44,5 @@ This task requires students to create a Zotero account and to join a collaborati
 
 The 10 sessions were held with [VIA learning Solution](https://e-learning.sviesolutions.com) which our University had subscribed to.
 There were never more than 10 students registered for a single session. 2 Librarians were connected all along the session. When several students were dealing with the same session (for instance, Java environment update), VIA (like BigBlueButton) makes possible to gather these students in a "separate room", where oral explanations given by one of the librarians will not disturb other students monitored by the second librarian.
+
+Cite the content : [![DOI](https://zenodo.org/badge/270615446.svg)](https://zenodo.org/badge/latestdoi/270615446)
